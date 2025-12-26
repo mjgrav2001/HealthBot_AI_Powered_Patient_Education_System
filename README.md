@@ -1,2 +1,3 @@
-# mjgrav2001-HealthBot_AI_Powered_Patient_Education_System
-Project for UDEMY course 'AI Agents with LangChain and LangGraph'
+# HealthBot - AI-Powered Patient Education System
+
+Capstone Project and Exercises for Udacity course 'AI Agents with LangChain and LangGraph' (December 2025)
